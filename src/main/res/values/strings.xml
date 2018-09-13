@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android2HW3</string>
+    <string name="google_maps_api_key">AIzaSyDn_GG0dpY6g8NikqinC1Z96QW2JGRnhw8</string>
+    <string name="google_directions_api_key">AIzaSyBX_lnNk_-_iqTEKrYVI0YZp5qkQWXJwdM</string>
+</resources>
